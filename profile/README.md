@@ -1,11 +1,10 @@
-![B-HD® Gif](B-HD.gif)
+![Sliz® Gif](Sliz.gif)
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Blockchain-Future-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/License-BW & ACO-lightgrey?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Blockchain%20Hyper%20Development®-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Make-All-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/License-Sliz®-lightgrey?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Made from the -heart-red?style=for-the-badge" />
 </p>
 
