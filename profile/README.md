@@ -1,4 +1,4 @@
-![Sliz® Gif](Sliz.gif)
+![Sliz® Gif](SGIF.gif)
 
 ---
 
