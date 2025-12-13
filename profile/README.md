@@ -1,5 +1,3 @@
-![Sliz® Gif](SGIF.gif)
-
 ---
 
 <p align="center">
